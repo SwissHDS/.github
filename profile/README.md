@@ -1,3 +1,3 @@
-## Swiss Health Dataspace
+## .github
 
-Under construction until Jan 2025
+Aministrativer Bereich zur Verwaltung der Anzeige der Organisation.
