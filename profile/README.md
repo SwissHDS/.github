@@ -1,3 +1,3 @@
 ## Swiss Health Dataspace
 
-Under constriuction until Jan 2025
+Under construction until Jan 2025
