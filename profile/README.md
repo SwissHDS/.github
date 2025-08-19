@@ -5,7 +5,7 @@ Die Erwartungen an eine fortlaufende, öffentliche Partizipation haben das Proje
 
 Die hier vorliegende Plattform wird sich entwickeln. Die Teilnahme-Intensität ist noch nicht absehbar – ebenso wenig wie die Bedürfnisse der Diskutierenden sowie die Schwerpunkte, welche sich ergeben werden.
 
-Nebst der Diskussionsplattform finden in regelmässigen Abständen Online-Treffen statt. Diese sollen informativ, konstruktiv, ausblickend und anregend wirken. Die Einladungslinks dazu werden jeweils via DigiSanté Newsletter verschickt. Der DigiSanté Newsletter kann hier abonniert werden: [TBD](https://www.digisante.admin.ch/de/newsletter-de)
+Nebst der Diskussionsplattform finden in regelmässigen Abständen Online-Treffen statt. Diese sollen informativ, konstruktiv, ausblickend und anregend wirken. Die Einladungslinks dazu werden jeweils via DigiSanté Newsletter verschickt. Der DigiSanté Newsletter kann [hier](https://www.digisante.admin.ch/de/newsletter-de) abonniert werden.
 
 Was Sie im gesamten Repository nicht finden werden, ist die offizielle Kommunikation zum DigiSanté Programm, mit Etappen, Eckdaten und Medienmitteilungen. Diese Informationen finden Sie [hier](https://www.digisante.admin.ch/de/ueber-uns) 
 
@@ -53,4 +53,4 @@ Verantwortlich für die GitHub-Organisation ist das Projektteam Datenraum Gesund
 
 Die in den Diskussionen aufgeführten Beiträge von Projektbeteiligten spiegeln nicht die offizielle Meinung des Projektteams oder der Bundesverwaltung wider. Für Links auf Webseiten sowie deren Inhalte ausserhalb dieser GitHub-Organisation wird keine Haftung übernommen.
 
-Die offizielle Webseite zum Projekt DigiSanté finden Sie unter: [TBD](https://www.digisante.admin.ch/de/ueber-uns)
+Die offizielle Webseite zum Projekt DigiSanté finden Sie [hier](https://www.digisante.admin.ch/de/ueber-uns).
